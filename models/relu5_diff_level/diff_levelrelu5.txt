@@ -1,0 +1,93 @@
+step 0, diff_level | discriminator accuracy | train: 0.00045, test: 0.4859
+generator losses | train: 0.5892, test: 480.4 | content: 41.58, color: 1145, texture: -34.07, tv: 0.0001147 |                         psnr: 10.45, nima: 115.5 ssim: nan
+
+step 1000, diff_level | discriminator accuracy | train: 0.4953, test: 0.4991
+generator losses | train: 154.2, test: 178.8 | content: 25.37, color: 178.7, texture: -15.36, tv: 0.003927 |                         psnr: 18.22, nima: 90.05 ssim: 0.8932
+
+step 2000, diff_level | discriminator accuracy | train: 0.4992, test: 0.5172
+generator losses | train: 41.05, test: 117.9 | content: 18.72, color: 147.4, texture: -14.36, tv: 0.004188 |                         psnr: 19.29, nima: 90.46 ssim: 0.9297
+
+step 3000, diff_level | discriminator accuracy | train: 0.5025, test: 0.4853
+generator losses | train: 13.44, test: 64.72 | content: 14.68, color: 124.8, texture: -14.48, tv: 0.004434 |                         psnr: 20.03, nima: 90.88 ssim: 0.9407
+
+step 4000, diff_level | discriminator accuracy | train: 0.4999, test: 0.5123
+generator losses | train: -2.713, test: 43.32 | content: 13.16, color: 113.9, texture: -14.45, tv: 0.004091 |                         psnr: 20.52, nima: 90.36 ssim: 0.9446
+
+step 5000, diff_level | discriminator accuracy | train: 0.4961, test: 0.5184
+generator losses | train: -5.376, test: 47.17 | content: 13.18, color: 101.1, texture: -13.88, tv: 0.003818 |                         psnr: 20.78, nima: 89.94 ssim: 0.9414
+
+step 6000, diff_level | discriminator accuracy | train: 0.5024, test: 0.4834
+generator losses | train: -10.18, test: 51.34 | content: 13.28, color: 111.8, texture: -13.98, tv: 0.004786 |                         psnr: 20.63, nima: 88.43 ssim: 0.9452
+
+step 7000, diff_level | discriminator accuracy | train: 0.5006, test: 0.5258
+generator losses | train: -12.15, test: 41.94 | content: 12.78, color: 96.86, texture: -13.84, tv: 0.004757 |                         psnr: 21.06, nima: 88.64 ssim: 0.946
+
+step 8000, diff_level | discriminator accuracy | train: 0.5041, test: 0.4712
+generator losses | train: -16.75, test: 28.39 | content: 11.61, color: 97.16, texture: -13.97, tv: 0.005098 |                         psnr: 21.11, nima: 88.6 ssim: 0.9485
+
+step 9000, diff_level | discriminator accuracy | train: 0.5049, test: 0.5092
+generator losses | train: -26.47, test: 40.49 | content: 11.97, color: 114.5, texture: -13.86, tv: 0.004653 |                         psnr: 20.57, nima: 87.62 ssim: 0.9446
+
+step 10000, diff_level | discriminator accuracy | train: 0.5032, test: 0.5
+generator losses | train: -26.86, test: 30.03 | content: 11.55, color: 98.82, texture: -13.85, tv: 0.004932 |                         psnr: 21.44, nima: 88.2 ssim: 0.9496
+
+step 11000, diff_level | discriminator accuracy | train: 0.5099, test: 0.4623
+generator losses | train: -28.57, test: 28.99 | content: 10.89, color: 113.9, texture: -13.98, tv: 0.005236 |                         psnr: 20.79, nima: 88.17 ssim: 0.949
+
+step 12000, diff_level | discriminator accuracy | train: 0.5079, test: 0.519
+generator losses | train: -33.07, test: 18.91 | content: 10.45, color: 101.1, texture: -13.85, tv: 0.004712 |                         psnr: 21.17, nima: 87.68 ssim: 0.9481
+
+step 13000, diff_level | discriminator accuracy | train: 0.5084, test: 0.4653
+generator losses | train: -34.25, test: 37.43 | content: 12.01, color: 106.2, texture: -13.9, tv: 0.005497 |                         psnr: 20.93, nima: 87.54 ssim: 0.9469
+
+step 14000, diff_level | discriminator accuracy | train: 0.4995, test: 0.5107
+generator losses | train: -35.61, test: 13.88 | content: 10.45, color: 90.45, texture: -13.87, tv: 0.004762 |                         psnr: 21.62, nima: 88 ssim: 0.9492
+
+step 15000, diff_level | discriminator accuracy | train: 0.5096, test: 0.512
+generator losses | train: -41.47, test: 11.61 | content: 10.24, color: 89.9, texture: -13.85, tv: 0.005139 |                         psnr: 21.57, nima: 87.31 ssim: 0.9474
+
+step 16000, diff_level | discriminator accuracy | train: 0.5068, test: 0.5015
+generator losses | train: -40.79, test: 9.218 | content: 10.08, color: 87.25, texture: -13.86, tv: 0.004423 |                         psnr: 21.86, nima: 88.79 ssim: 0.9492
+
+step 17000, diff_level | discriminator accuracy | train: 0.5126, test: 0.5227
+generator losses | train: -40.43, test: 22.33 | content: 10.14, color: 113.9, texture: -13.85, tv: 0.004801 |                         psnr: 20.72, nima: 87.58 ssim: 0.9453
+
+step 18000, diff_level | discriminator accuracy | train: 0.5133, test: 0.4837
+generator losses | train: -48.31, test: 16.91 | content: 10.17, color: 104.8, texture: -13.96, tv: 0.005217 |                         psnr: 21.21, nima: 87.71 ssim: 0.9471
+
+step 19000, diff_level | discriminator accuracy | train: 0.5029, test: 0.5018
+generator losses | train: -42.87, test: 15.66 | content: 10.41, color: 97.57, texture: -13.87, tv: 0.004811 |                         psnr: 21.41, nima: 87.06 ssim: 0.9475
+
+step 20000, diff_level | discriminator accuracy | train: 0.51, test: 0.531
+generator losses | train: -44.42, test: 8.711 | content: 10.22, color: 83.8, texture: -13.83, tv: 0.005089 |                         psnr: 21.94, nima: 87.4 ssim: 0.95
+
+step 21000, diff_level | discriminator accuracy | train: 0.5087, test: 0.4972
+generator losses | train: -51.82, test: 5.498 | content: 10.01, color: 83.43, texture: -13.92, tv: 0.005213 |                         psnr: 22.16, nima: 87.82 ssim: 0.9503
+
+step 22000, diff_level | discriminator accuracy | train: 0.5099, test: 0.5129
+generator losses | train: -40.82, test: 1.728 | content: 9.945, color: 77.26, texture: -13.85, tv: 0.005024 |                         psnr: 22.2, nima: 87.03 ssim: 0.9455
+
+step 23000, diff_level | discriminator accuracy | train: 0.5062, test: 0.5141
+generator losses | train: -45.71, test: 2.447 | content: 9.63, color: 86.38, texture: -13.85, tv: 0.004808 |                         psnr: 21.8, nima: 86.91 ssim: 0.9457
+
+step 24000, diff_level | discriminator accuracy | train: 0.5068, test: 0.4813
+generator losses | train: -49.71, test: -1.053 | content: 9.608, color: 78.75, texture: -13.87, tv: 0.00562 |                         psnr: 22.37, nima: 86.46 ssim: 0.9512
+
+step 25000, diff_level | discriminator accuracy | train: 0.51, test: 0.4979
+generator losses | train: -55.09, test: 3.997 | content: 9.514, color: 91.46, texture: -13.87, tv: 0.005289 |                         psnr: 21.82, nima: 86.69 ssim: 0.9502
+
+step 26000, diff_level | discriminator accuracy | train: 0.5095, test: 0.496
+generator losses | train: -52.66, test: 1.504 | content: 9.956, color: 96.54, texture: -14.33, tv: 0.005209 |                         psnr: 21.5, nima: 86.55 ssim: 0.9474
+
+step 27000, diff_level | discriminator accuracy | train: 0.5053, test: 0.4979
+generator losses | train: -50.19, test: -4.916 | content: 9.568, color: 74.54, texture: -13.89, tv: 0.005177 |                         psnr: 22.63, nima: 86.33 ssim: 0.951
+
+step 28000, diff_level | discriminator accuracy | train: 0.5089, test: 0.5215
+generator losses | train: -51.84, test: -2.898 | content: 9.648, color: 72.5, texture: -13.83, tv: 0.005601 |                         psnr: 22.46, nima: 86.49 ssim: 0.9489
+
+step 29000, diff_level | discriminator accuracy | train: 0.5157, test: 0.5034
+generator losses | train: -51.22, test: -1.553 | content: 9.279, color: 85.27, texture: -13.88, tv: 0.004906 |                         psnr: 22.06, nima: 87.26 ssim: 0.9491
+
+step 29999, diff_level | discriminator accuracy | train: 0.5003, test: 0.4929
+generator losses | train: -59.79, test: -4.376 | content: 9.18, color: 81.4, texture: -13.89, tv: 0.005472 |                         psnr: 22.32, nima: 86.6 ssim: 0.9496
+
